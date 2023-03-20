@@ -1,3 +1,3 @@
-# work  home
+#  home work 
  /Tp algorithm
  /c <>
