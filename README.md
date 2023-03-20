@@ -1,2 +1,3 @@
-# algorithm <>
-work  home : tp algorithm
+# work  home
+ *tp algorithm
+ *c <>
