@@ -1,2 +1,2 @@
 #  home work 
-  algorithm *  c  </>
+  algorithm  </> c
