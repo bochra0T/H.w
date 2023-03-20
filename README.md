@@ -1,3 +1,3 @@
 # work  home
- *tp algorithm
- *c <>
+ /Tp algorithm
+ /c <>
