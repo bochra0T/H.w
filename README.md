@@ -1,4 +1,2 @@
 #  home work 
- /Tp algorithm
- /c 
- </>
+  Tp algorithm *  c  </>
