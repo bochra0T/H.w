@@ -1,2 +1,2 @@
 #  home work 
-  Tp algorithm *  c  </>
+  algorithm *  c  </>
